@@ -115,19 +115,19 @@ ul {
   padding-left: 0px;
 }
 
-@media (max-width: 960px) {
-  .container {
-    width: 700px;
+@media (max-width: 900px) {
+  .item2 {
+    padding-left: 100px;
   }
 }
-@media (max-width: 720px) {
-  .container {
-    width: 500px;
+@media (max-width: 700px) {
+  .item2 {
+    padding-left: 50px;
   }
 }
-@media (max-width: 540px) {
-  .container {
-    width: 300px;
+@media (max-width: 620px) {
+  .item2 {
+    padding-left: 0px;
   }
 }
 
